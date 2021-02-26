@@ -1,6 +1,5 @@
 # Prerequisites
 *.d
-*.php
 *pdf
 # Object files
 *.o
